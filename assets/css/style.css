@@ -1,0 +1,32 @@
+.main-logo {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.main-logo img {
+    width: 60px;
+    height: 60px;
+}
+
+.header-menu {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.navbar-default {
+  background: none;
+  border-color: #fff;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  background: none;
+}
