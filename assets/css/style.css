@@ -283,3 +283,63 @@ footer {
 .cross-paddingtop {
     margin-top: 30px;
 }
+
+.cross-homstay {
+    height: 500px;
+    padding: 10px;
+    border: 1px solid #f4f4f4;
+}
+
+.cross-homstay img {
+    height: 250px;
+    width: 100%;
+}
+
+.room-name {
+    margin-top: 20px;
+}
+
+.room-name a{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #333;
+    margin-top: 20px;
+}
+
+.room-info {
+    margin-top: 20px;
+}
+
+.room-title {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.booking-btn {
+    height: 50px;
+    background: #138B91;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    cursor: pointer;
+    padding-top: 10px;
+}
+
+.booking-btn a {
+    color: #fff;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.image-room {
+    margin-top: 20px;
+}
+
+.image-room-item {
+    margin-bottom: 20px;
+}
+
+.image-room-item img {
+    width: 100%;
+    height: 100%;
+}
